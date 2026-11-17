@@ -22,7 +22,7 @@ Digitação do cartão de ponto, apuração de horas extras, valor em reais com 
 - **Valores arredondados por faixa, em centavos**, para o total fechar na calculadora de quem confere.
 - **Salário e divisor congelados por competência**, para que um reajuste novo não altere o fechamento de um mês antigo.
 - **Ficha em PDF idêntica ao cartão** usado antes, com medidas lidas da planilha original.
-- **354 testes automatizados.**
+- **Mais de 350 testes automatizados.**
 
 ## Stack
 
